@@ -22,13 +22,9 @@ Test Data: 312 rows without labels (to predict)
 
 📌 Features
 
-Feature
+Feature         Description
 
-Description
-
-SEQN
-
-Unique ID
+SEQN            Unique ID
 
 RIAGENDR
 
